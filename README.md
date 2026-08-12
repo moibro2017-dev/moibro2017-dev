@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mo 👋
 
-<!--
-**moibro2017-dev/moibro2017-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical software with AI, automation, and modern web technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI-powered applications
+- ⚙️ Automation workflows
+- 🎨 Generative AI & ComfyUI
+- 🌐 Web applications
+- 🛠️ Developer tools
+
+## 🧰 Technologies
+
+- JavaScript / TypeScript
+- React
+- Python
+- Node.js
+- Git / GitHub
+- AI APIs
+- ComfyUI
+
+## 📌 Current Projects
+
+### Project One
+Short description of what it does.
+
+### Project Two
+Short description of what it does.
+
+### Project Three
+Short description of what it does.
+
+## 📫 Connect
+
